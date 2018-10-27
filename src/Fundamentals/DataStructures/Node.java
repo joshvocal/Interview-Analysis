@@ -27,8 +27,6 @@ public class Node {
 
         // Level 2
         root.children.get(0)
-                .children.add(new Node(4, new ArrayList<>()));
-        root.children.get(0)
                 .children.add(new Node(5, new ArrayList<>()));
         root.children.get(0)
                 .children.add(new Node(6, new ArrayList<>()));
