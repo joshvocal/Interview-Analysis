@@ -32,14 +32,11 @@ public class TreeNode {
     }
 
     public static TreeNode getLinkedList() {
-        // Level 0
         TreeNode root = new TreeNode(1);
 
-        // Level 1
         root.left = new TreeNode(2);
         root.left.left = new TreeNode(3);
 
-        // Level 2
         root.left.left.left = new TreeNode(4);
         root.left.left.left.left = new TreeNode(5);
         root.left.left.left.left.left = new TreeNode(6);

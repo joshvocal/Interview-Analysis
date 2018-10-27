@@ -48,10 +48,6 @@ public class PostOrderTraversal {
         return list;
     }
 
-    public List<Integer> postOrderTraversalIterative2(TreeNode root, List<Integer> list) {
-        return list;
-    }
-
     /*
      * Time: O(n)
      * The algorithm runs in linear time because we need to visit every node in the tree
