@@ -17,19 +17,25 @@ class LevelOrderTraversalTest {
     public void testBalancedTree() {
         root = TreeNode.getBalancedTree();
 
+        List<List<Integer>> actual = levelOrderTraversal.levelOrderTraversal(root);
         List<List<Integer>> expected = new ArrayList<>();
+
+        // Level 0
         expected.add(new ArrayList<>());
         expected.get(0).add(1);
+
+        // Level 1
         expected.add(new ArrayList<>());
         expected.get(1).add(2);
         expected.get(1).add(3);
+
+        // Level 2
         expected.add(new ArrayList<>());
         expected.get(2).add(4);
         expected.get(2).add(5);
         expected.get(2).add(6);
         expected.get(2).add(7);
 
-        List<List<Integer>> actual = levelOrderTraversal.levelOrderTraversal(root);
 
         assertEquals(expected, actual);
     }
@@ -46,25 +52,37 @@ class LevelOrderTraversalTest {
     public void testLinkedList() {
         root = TreeNode.getLinkedList();
 
+        List<List<Integer>> actual = levelOrderTraversal.levelOrderTraversal(root);
         List<List<Integer>> expected = new ArrayList<>();
+
+        // Level 0
         expected.add(new ArrayList<>());
         expected.get(0).add(1);
+
+        // Level 1
         expected.add(new ArrayList<>());
         expected.get(1).add(2);
+
+        // Level 2
         expected.add(new ArrayList<>());
         expected.get(2).add(3);
+
+        // Level 3
         expected.add(new ArrayList<>());
         expected.get(3).add(4);
+
+        // Level 4
         expected.add(new ArrayList<>());
         expected.get(4).add(5);
+
+        // Level 5
         expected.add(new ArrayList<>());
         expected.get(5).add(6);
+
+        // Level 6
         expected.add(new ArrayList<>());
         expected.get(6).add(7);
 
-        List<List<Integer>> actual = levelOrderTraversal.levelOrderTraversal(root);
-
         assertEquals(actual, expected);
     }
-
 }

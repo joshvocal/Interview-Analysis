@@ -14,10 +14,11 @@ class PostOrderTraversalTest {
     private TreeNode root = new TreeNode();
 
     @Test
-    public void testBalancedTreeRecursive() {
+    void testBalancedTree() {
         root = TreeNode.getBalancedTree();
 
         List<Integer> actual = postOrderTraversal.postOrderTraversalRecursive(root, new ArrayList<>());
+        List<Integer> actual2 = postOrderTraversal.postOrderTraversalIterative(root, new ArrayList<>());
 
         List<Integer> expected = new ArrayList<>();
         expected.add(4);
@@ -29,53 +30,29 @@ class PostOrderTraversalTest {
         expected.add(1);
 
         assertEquals(actual, expected);
+        assertEquals(actual2, expected);
     }
 
     @Test
-    public void testBalancedTreeIterative() {
-        root = TreeNode.getBalancedTree();
-
-        List<Integer> actual = postOrderTraversal.postOrderTraversalIterative(root, new ArrayList<>());
-
-        List<Integer> expected = new ArrayList<>();
-        expected.add(4);
-        expected.add(5);
-        expected.add(2);
-        expected.add(6);
-        expected.add(7);
-        expected.add(3);
-        expected.add(1);
-
-        assertEquals(actual, expected);
-    }
-
-    @Test
-    public void testEmptyTreeRecursive() {
+    public void testEmptyTree() {
         root = TreeNode.getEmptyTree();
 
         List<Integer> actual = postOrderTraversal.postOrderTraversalRecursive(root, new ArrayList<>());
+        List<Integer> actual2 = postOrderTraversal.postOrderTraversalIterative(root, new ArrayList<>());
 
         List<Integer> expected = new ArrayList<>();
 
         assertEquals(actual, expected);
+        assertEquals(actual2, expected);
     }
 
     @Test
-    public void testEmptyTreeIterative() {
-        root = TreeNode.getEmptyTree();
-
-        List<Integer> actual = postOrderTraversal.postOrderTraversalIterative(root, new ArrayList<>());
-
-        List<Integer> expected = new ArrayList<>();
-
-        assertEquals(actual, expected);
-    }
-
-    @Test
-    public void testLinkedListRecursive() {
+    public void testLinkedList() {
         root = TreeNode.getLinkedList();
 
         List<Integer> actual = postOrderTraversal.postOrderTraversalRecursive(root, new ArrayList<>());
+        List<Integer> actual2 = postOrderTraversal.postOrderTraversalIterative(root, new ArrayList<>());
+
         List<Integer> expected = new ArrayList<>();
         expected.add(7);
         expected.add(6);
@@ -86,22 +63,6 @@ class PostOrderTraversalTest {
         expected.add(1);
 
         assertEquals(actual, expected);
-    }
-
-    @Test
-    public void testLinkedListIterative() {
-        root = TreeNode.getLinkedList();
-
-        List<Integer> actual = postOrderTraversal.postOrderTraversalIterative(root, new ArrayList<>());
-        List<Integer> expected = new ArrayList<>();
-        expected.add(7);
-        expected.add(6);
-        expected.add(5);
-        expected.add(4);
-        expected.add(3);
-        expected.add(2);
-        expected.add(1);
-
-        assertEquals(actual, expected);
+        assertEquals(actual2, expected);
     }
 }
