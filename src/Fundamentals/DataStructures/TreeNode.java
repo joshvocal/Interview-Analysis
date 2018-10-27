@@ -1,4 +1,4 @@
-package Fundamentals.Tree;
+package Fundamentals.DataStructures;
 
 public class TreeNode {
 

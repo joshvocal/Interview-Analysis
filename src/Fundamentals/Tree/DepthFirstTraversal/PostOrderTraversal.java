@@ -1,9 +1,7 @@
 package Fundamentals.Tree.DepthFirstTraversal;
 
-import Fundamentals.Tree.TreeNode;
-import sun.reflect.generics.tree.Tree;
+import Fundamentals.DataStructures.TreeNode;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 

@@ -1,6 +1,6 @@
 package Fundamentals.Tree.DepthFirstTraversal;
 
-import Fundamentals.Tree.TreeNode;
+import Fundamentals.DataStructures.TreeNode;
 
 import java.util.List;
 import java.util.Stack;

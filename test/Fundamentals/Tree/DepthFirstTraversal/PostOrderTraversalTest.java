@@ -1,6 +1,6 @@
 package Fundamentals.Tree.DepthFirstTraversal;
 
-import Fundamentals.Tree.TreeNode;
+import Fundamentals.DataStructures.TreeNode;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

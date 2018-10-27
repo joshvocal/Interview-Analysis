@@ -1,6 +1,6 @@
 package Fundamentals.Tree.BreadthFirstTraversal;
 
-import Fundamentals.Tree.TreeNode;
+import Fundamentals.DataStructures.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
