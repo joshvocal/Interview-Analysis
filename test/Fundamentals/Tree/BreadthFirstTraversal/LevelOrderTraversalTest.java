@@ -83,6 +83,6 @@ class LevelOrderTraversalTest {
         expected.add(new ArrayList<>());
         expected.get(6).add(7);
 
-        assertEquals(actual, expected);
+        assertEquals(expected, actual);
     }
 }

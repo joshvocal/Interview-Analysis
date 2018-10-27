@@ -18,8 +18,8 @@ class SolutionTest {
         int actual2 = solution.maxDepth2(root);
         int expected = 3;
 
-        assertEquals(actual, expected);
-        assertEquals(actual2, expected);
+        assertEquals(expected, actual);
+        assertEquals(expected, actual2);
     }
 
     @Test
@@ -30,8 +30,8 @@ class SolutionTest {
         int actual2 = solution.maxDepth2(root);
         int expected = 0;
 
-        assertEquals(actual, expected);
-        assertEquals(actual2, expected);
+        assertEquals(expected, actual);
+        assertEquals(expected, actual2);
     }
 
     @Test
@@ -42,8 +42,7 @@ class SolutionTest {
         int actual2 = solution.maxDepth2(root);
         int expected = 3;
 
-        assertEquals(actual, expected);
-        assertEquals(actual2, expected);
+        assertEquals(expected, actual);
+        assertEquals(expected, actual2);
     }
-
 }

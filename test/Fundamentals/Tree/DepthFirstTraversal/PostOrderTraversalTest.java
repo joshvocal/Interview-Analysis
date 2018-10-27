@@ -29,8 +29,8 @@ class PostOrderTraversalTest {
         expected.add(3);
         expected.add(1);
 
-        assertEquals(actual, expected);
-        assertEquals(actual2, expected);
+        assertEquals(expected, actual);
+        assertEquals(expected, actual2);
     }
 
     @Test
@@ -42,8 +42,8 @@ class PostOrderTraversalTest {
 
         List<Integer> expected = new ArrayList<>();
 
-        assertEquals(actual, expected);
-        assertEquals(actual2, expected);
+        assertEquals(expected, actual);
+        assertEquals(expected, actual2);
     }
 
     @Test
@@ -62,7 +62,7 @@ class PostOrderTraversalTest {
         expected.add(2);
         expected.add(1);
 
-        assertEquals(actual, expected);
-        assertEquals(actual2, expected);
+        assertEquals(expected, actual);
+        assertEquals(expected, actual2);
     }
 }

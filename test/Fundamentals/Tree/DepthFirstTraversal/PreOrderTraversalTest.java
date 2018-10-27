@@ -29,8 +29,8 @@ class PreOrderTraversalTest {
         expected.add(6);
         expected.add(7);
 
-        assertEquals(actual, expected);
-        assertEquals(actual2, expected);
+        assertEquals(expected, actual);
+        assertEquals(expected, actual2);
     }
 
     @Test
@@ -42,12 +42,12 @@ class PreOrderTraversalTest {
 
         List<Integer> expected = new ArrayList<>();
 
-        assertEquals(actual, expected);
-        assertEquals(actual2, expected);
+        assertEquals(expected, actual);
+        assertEquals(expected, actual2);
     }
 
     @Test
-    void testLinkedListRecursive() {
+    void testLinkedList() {
         root = TreeNode.getLinkedList();
 
         List<Integer> actual = preOrderTraversal.preOrderTraversalRecursive(root, new ArrayList<>());
@@ -61,7 +61,7 @@ class PreOrderTraversalTest {
         expected.add(6);
         expected.add(7);
 
-        assertEquals(actual, expected);
-        assertEquals(actual2, expected);
+        assertEquals(expected, actual);
+        assertEquals(expected, actual2);
     }
 }

@@ -41,6 +41,7 @@ class InorderTraversalTest {
         List<Integer> actual2 = inOrderTraversal.inOrderTraversalIterative(root, new ArrayList<>());
         List<Integer> expected = new ArrayList<>();
 
+        assertEquals(expected, actual);
         assertEquals(expected, actual2);
     }
 
