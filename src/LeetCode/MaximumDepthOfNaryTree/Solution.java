@@ -8,9 +8,13 @@ import java.util.Queue;
 public class Solution {
 
     /*
-     * Time:
-     * Space:
-     * Idea:
+     * Time: O(n)
+     * We iterate through all the nodes in the tree using BFS.
+     *
+     * Space: O(n)
+     * We are using a queue as the data structure to store the levels of the k-ary tree.
+     * The maximum nodes that the queue will hold is at the bottom are the leaves of the k-ary tree
+     * which is (n / k) + 1
      */
 
     public int maxDepth(Node root) {
@@ -41,9 +45,12 @@ public class Solution {
     }
 
     /*
-     * Time:
-     * Space:
-     * Idea:
+     * Time: O(n)
+     * We must iterate through the entire k-ary tree to find the maximum depth of the tree
+     *
+     * Space: O(log(n))
+     * Since we are recursively going down into the tree, the stack space for our recursion will
+     * be the same as the height of our tree.
      */
 
     public int maxDepth2(Node root) {
