@@ -10,7 +10,7 @@ public class Solution {
 
     /*
      * Time: O(n)
-     * Space: O(log(n))
+     * Space: O(n)
      *
      * Using a global variable list to store the values
      */
@@ -30,7 +30,7 @@ public class Solution {
 
     /*
      * Time: O(n)
-     * Space: O(log(n))
+     * Space: O(n)
      *
      * Maintaining the values in the tree in a local variable
      */
@@ -52,7 +52,7 @@ public class Solution {
 
     /*
      * Time: O(n)
-     * Space: O(log(n))
+     * Space: O(n)
      *
      * Iterative approach
      */
