@@ -11,7 +11,7 @@ public class Solution {
      * Space: O(log(n))
      * The number of recursive calls is the same as the height of a tree
      */
-    
+
     public TreeNode searchBST(TreeNode root, int val) {
         if (root == null) return null;
 
