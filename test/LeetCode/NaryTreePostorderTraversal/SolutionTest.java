@@ -21,6 +21,7 @@ class SolutionTest {
         List<Integer> actual = solution.postorder(root);
         List<Integer> actual2 = solution.postorder2(root);
         List<Integer> actual3 = solution.postorder3(root);
+        List<Integer> actual4 = solution.postorder4(root);
         List<Integer> expected = new ArrayList<>();
         expected.add(5);
         expected.add(6);
@@ -36,10 +37,12 @@ class SolutionTest {
         expected.add(4);
         expected.add(1);
 
+        // [5, 6, 7, 2, 8, 9, 10, 3, 11, 12, 13, 4, 1]
+
         assertEquals(expected, actual);
-        System.out.println(actual);
         assertEquals(expected, actual2);
         assertEquals(expected, actual3);
+        assertEquals(expected, actual4);
     }
 
     @Test

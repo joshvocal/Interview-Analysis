@@ -78,4 +78,31 @@ public class Solution {
 
         return res;
     }
+
+    /*
+     * Time: O(n)
+     * Space: O(n)
+     */
+
+    public List<Integer> postorder4(Node root) {
+
+        List<Integer> res = new ArrayList<>();
+
+        if (root == null) return res;
+
+        Stack<Node> s1 = new Stack<>();
+        s1.push(root);
+
+        while (!s1.isEmpty()) {
+
+            root = s1.pop();
+            res.add(0, root.val);
+
+            for (Node child : root.children) {
+                s1.push(child);
+            }
+        }
+
+        return res;
+    }
 }
