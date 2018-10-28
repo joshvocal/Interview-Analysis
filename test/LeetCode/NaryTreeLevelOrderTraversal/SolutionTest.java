@@ -37,6 +37,7 @@ class SolutionTest {
         levelTwo.add(10);
         levelTwo.add(11);
         levelTwo.add(12);
+        levelTwo.add(13);
 
         expected.add(levelZero);
         expected.add(levelOne);

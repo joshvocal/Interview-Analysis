@@ -30,20 +30,22 @@ public class Node {
                 .children.add(new Node(5, new ArrayList<>()));
         root.children.get(0)
                 .children.add(new Node(6, new ArrayList<>()));
-
-        root.children.get(1)
+        root.children.get(0)
                 .children.add(new Node(7, new ArrayList<>()));
+
         root.children.get(1)
                 .children.add(new Node(8, new ArrayList<>()));
         root.children.get(1)
                 .children.add(new Node(9, new ArrayList<>()));
-
-        root.children.get(2)
+        root.children.get(1)
                 .children.add(new Node(10, new ArrayList<>()));
+
         root.children.get(2)
                 .children.add(new Node(11, new ArrayList<>()));
         root.children.get(2)
                 .children.add(new Node(12, new ArrayList<>()));
+        root.children.get(2)
+                .children.add(new Node(13, new ArrayList<>()));
 
         return root;
     }
