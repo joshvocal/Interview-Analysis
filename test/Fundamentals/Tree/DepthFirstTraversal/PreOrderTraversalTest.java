@@ -31,6 +31,8 @@ class PreOrderTraversalTest {
 
         assertEquals(expected, actual);
         assertEquals(expected, actual2);
+
+        System.out.println(actual);
     }
 
     @Test
