@@ -26,7 +26,7 @@ public class LevelOrderTraversal {
      * Resource: https://eugene-eeo.github.io/blog/tree-traversal-storage.html
      */
 
-    public List<List<Integer>> levelOrderTraversal(TreeNode root) {
+    public static List<List<Integer>> levelOrderTraversal(TreeNode root) {
 
         List<List<Integer>> res = new ArrayList<>();
 

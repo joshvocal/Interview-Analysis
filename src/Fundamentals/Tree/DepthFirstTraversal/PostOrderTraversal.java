@@ -16,7 +16,7 @@ public class PostOrderTraversal {
      * Resource:
      */
 
-    public List<Integer> postOrderTraversalIterative(TreeNode root, List<Integer> list) {
+    public static List<Integer> postOrderTraversalIterative(TreeNode root, List<Integer> list) {
 
         if (root == null) return list;
 
@@ -62,7 +62,7 @@ public class PostOrderTraversal {
      * Resource:
      */
 
-    public List<Integer> postOrderTraversalRecursive(TreeNode root, List<Integer> list) {
+    public static List<Integer> postOrderTraversalRecursive(TreeNode root, List<Integer> list) {
         if (root == null) return list;
 
         postOrderTraversalRecursive(root.left, list);

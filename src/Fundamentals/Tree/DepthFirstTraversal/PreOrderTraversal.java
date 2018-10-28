@@ -25,7 +25,7 @@ public class PreOrderTraversal {
      * Resource:
      */
 
-    public List<Integer> preOrderTraversalIterative(TreeNode root, List<Integer> list) {
+    public static List<Integer> preOrderTraversalIterative(TreeNode root, List<Integer> list) {
 
         if (root == null) return list;
 
@@ -62,7 +62,7 @@ public class PreOrderTraversal {
      * Resource:
      */
 
-    public List<Integer> preOrderTraversalRecursive(TreeNode root, List<Integer> list) {
+    public static List<Integer> preOrderTraversalRecursive(TreeNode root, List<Integer> list) {
         if (root == null) return list;
 
         list.add(root.val);

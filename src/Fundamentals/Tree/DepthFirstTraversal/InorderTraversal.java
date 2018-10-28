@@ -23,7 +23,7 @@ public class InorderTraversal {
      * Resource:
      */
 
-    public List<Integer> inOrderTraversalIterative(TreeNode root, List<Integer> res) {
+    public static List<Integer> inOrderTraversalIterative(TreeNode root, List<Integer> res) {
 
         if (root == null) return res;
 
@@ -59,7 +59,7 @@ public class InorderTraversal {
      * will contain all the nodes in the tree.
      */
 
-    public List<Integer> inOrderTraversalRecursive(TreeNode root, List<Integer> res) {
+    public static List<Integer> inOrderTraversalRecursive(TreeNode root, List<Integer> res) {
         if (root == null) return res;
 
         inOrderTraversalRecursive(root.left, res);
