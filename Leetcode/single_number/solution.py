@@ -1,5 +1,5 @@
 """
-Solution: 1
+Solution 1: Set
 Time: O(n)
 Space: O(n)
 """
