@@ -1,1 +1,20 @@
-print("TODO")
+"""
+Solution 1: Recursive
+Time: O(n)
+Space: O(log n) / Worst: O(n)
+"""
+
+
+class Solution(object):
+    def maxDepth(self, root):
+        """
+        :type root: TreeNode
+        :rtype: int
+        """
+        if not root:
+            return 0
+
+        left = self.maxDepth(root.left)
+        right = self.maxDepth(root.right)
+
+        return max(left, right) + 1
