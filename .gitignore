@@ -4,6 +4,7 @@
 .idea/*
 *.iml
 .DS_Store
+*.pyc
 
 # User-specific stuff
 .idea/**/workspace.xml
