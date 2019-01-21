@@ -32,11 +32,13 @@ class Solution:
 
         return res
 
+
 """
 Solution 2: DFS
 Time: O(n)
 Space: O(log n) == O(h)
 """
+
 
 class Solution2:
     def levelOrder(self, root):
@@ -44,9 +46,9 @@ class Solution2:
         :type root: TreeNode
         :rtype: List[List[int]]
         """
-         res = []
-         self.dfs(res, root, 0)
-         return res
+        res = []
+        self.dfs(res, root, 0)
+        return res
 
     def dfs(self, res, root, depth):
         if not root:
