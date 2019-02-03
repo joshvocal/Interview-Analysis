@@ -2,7 +2,8 @@
 
 | Number | Title                                                                                                             | Solution           | Tests              | Guide | Video |
 | ------ | ----------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ | ----- | ----- |
-| 46     | [Permutations](https://leetcode.com/problems/permutations/submissions/1)                                          | :heavy_check_mark: |                    |       |       |
+| 22     | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)                           | :heavy_check_mark: |                    |       |       |
+| 46     | [Permutations](https://leetcode.com/problems/permutations/description/)                                           | :heavy_check_mark: |                    |       |       |
 | 102    | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | :heavy_check_mark: |                    |       |       |
 | 104    | [Maximum Depth of Binary Tree](https://leetcode.com/problems/single-number/description/)                          | :heavy_check_mark: |                    |       |       |
 | 136    | [Single Number](https://leetcode.com/problems/single-number/description/)                                         | :heavy_check_mark: | :heavy_check_mark: |       |       |
