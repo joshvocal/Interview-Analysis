@@ -6,6 +6,7 @@
 | 46     | [Permutations](https://leetcode.com/problems/permutations/description/)                                           | :heavy_check_mark: |                    |       |       |
 | 102    | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | :heavy_check_mark: |                    |       |       |
 | 104    | [Maximum Depth of Binary Tree](https://leetcode.com/problems/single-number/description/)                          | :heavy_check_mark: |                    |       |       |
+| 169    | [Majority Element](https://leetcode.com/problems/majority-element/description/)                                   | :heavy_check_mark: |                    |       |       |
 | 136    | [Single Number](https://leetcode.com/problems/single-number/description/)                                         | :heavy_check_mark: | :heavy_check_mark: |       |       |
 | 206    | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                             | :heavy_check_mark: |                    |       |       |
 | 217    | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/hints/)                                     | :heavy_check_mark: |                    |       |       |
