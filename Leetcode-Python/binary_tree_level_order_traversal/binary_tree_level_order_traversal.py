@@ -58,25 +58,3 @@ class Solution2:
         res[depth].append(root.val)
         self.dfs(res, root.left, depth + 1)
         self.dfs(res, root.right, depth + 1)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
