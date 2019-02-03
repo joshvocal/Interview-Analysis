@@ -5,7 +5,7 @@ class Solution:
     Time: O(n)
     Space: O(n)
     """
-    
+
     def firstUniqChar(self, s):
         """
         :type s: str
