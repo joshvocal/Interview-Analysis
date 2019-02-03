@@ -17,6 +17,7 @@
 | 242    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                           | :heavy_check_mark: | heavy_check_mark:  |       |       |
 | 283    | [Move Zeros](https://leetcode.com/problems/move-zeroes/description/)                                                                | :heavy_check_mark: |                    |       |       |
 | 334    | [Reverse String](https://leetcode.com/problems/reverse-string/description/)                                                         | :heavy_check_mark: | :heavy_check_mark: |       |       |
+| 387    | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)                 | :heavy_check_mark: |                    |       |       |
 | 412    | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)                                                                   | :heavy_check_mark: | :heavy_check_mark: |       |       |
 | 671    | [Second Minimum Node in a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/)             | :heavy_check_mark: |                    |       |       |
 
