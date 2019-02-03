@@ -1,10 +1,11 @@
-"""
-Solution 1: DFS
-Time: O(2^n)
-Space: O(2^n)
-"""
-
 class Solution:
+
+    """
+    Solution 1: DFS
+    Time: O(2^n)
+    Space: O(2^n)
+    """
+
     def subsets(self, nums):
         """
         :type nums: List[int]

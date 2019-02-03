@@ -4,6 +4,7 @@
 | ------ | ----------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ | ----- | ----- |
 | 22     | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)                           | :heavy_check_mark: |                    |       |       |
 | 46     | [Permutations](https://leetcode.com/problems/permutations/description/)                                           | :heavy_check_mark: |                    |       |       |
+| 78     | [Subsets](https://leetcode.com/problems/subsets/description/)                                                     | :heavy_check_mark: |                    |       |       |
 | 102    | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | :heavy_check_mark: |                    |       |       |
 | 104    | [Maximum Depth of Binary Tree](https://leetcode.com/problems/single-number/description/)                          | :heavy_check_mark: |                    |       |       |
 | 169    | [Majority Element](https://leetcode.com/problems/majority-element/description/)                                   | :heavy_check_mark: |                    |       |       |
