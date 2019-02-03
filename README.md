@@ -1,20 +1,7 @@
 # Interview Analysis for the Future
 
-## Current Goals
-* **Complete 400 LeetCode questions - May 2019**
-  * 177 Complete - Oct 27, 2018
-* **Document 400 LeetCode questions - May 2019**
-  * 0 Complete - Oct 27, 2018
+<p align="center">
+ <img src="https://github.com/joshvocal/Interview-Analysis/blob/master/res/deku.gif"/>
+</p>
 
-## Sections
-* [Fundamentals](https://github.com/joshvocal/Interview-Analysis/tree/master/src/Fundamentals)
-  * Building a solid foundation on data structures and algorithms
-* [Interviews](https://github.com/joshvocal/Interview-Analysis/tree/master/src/Interviews)
-  * Documenting past failures and successes
-* [LeetCode](https://github.com/joshvocal/Interview-Analysis/tree/master/src/LeetCode)
-  * Practice applying fundamentals and patterns
-* [Patterns](https://github.com/joshvocal/Interview-Analysis/tree/master/src/Patterns)
-  * Problem solving techniques
-
-## Resources
-* TODO
+> I wanted to follow up with you as I've been able to confirm results from your interviews with us - unfortunately we will not be moving forward with an offer at this time. I realize this final outcome may be disappointing, but know that you reached a stage of the campus recruiting process that only a few achieve. 
