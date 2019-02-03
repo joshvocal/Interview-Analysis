@@ -21,3 +21,12 @@ class TestSolution(unittest.TestCase):
         expected = False
 
         self.assertEquals(actual, expected)
+
+    def test_empty_strings(self):
+        s = ""
+        t = ""
+
+        actual = Solution().isAnagram(s, t)
+        expected = True
+
+        self.assertEquals(actual, expected)
