@@ -2,7 +2,8 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 .idea/*
-Leetcodd/.idea/*
+Leetcode/.idea/*
+Leetcode/.idea
 *.iml
 .DS_Store
 *.pyc
