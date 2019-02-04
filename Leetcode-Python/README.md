@@ -2,6 +2,7 @@
 
 | Number | Title                                                                                                                               | Solution           | Tests              | Guide | Video |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ | ----- | ----- |
+| 21     | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/1)                                        | :heavy_check_mark: |                    |       |       |
 | 22     | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)                                             | :heavy_check_mark: |                    |       |       |
 | 46     | [Permutations](https://leetcode.com/problems/permutations/description/)                                                             | :heavy_check_mark: |                    |       |       |
 | 78     | [Subsets](https://leetcode.com/problems/subsets/description/)                                                                       | :heavy_check_mark: |                    |       |       |
