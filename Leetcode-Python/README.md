@@ -9,6 +9,7 @@
 | 46     | [Permutations](https://leetcode.com/problems/permutations/description/)                                                             | :heavy_check_mark: |                    |       |       |
 | 70     | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                                       | :heavy_check_mark: |                    |       |       |
 | 78     | [Subsets](https://leetcode.com/problems/subsets/description/)                                                                       | :heavy_check_mark: |                    |       |       |
+| 88     | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)                                                 | :heavy_check_mark: |                    |       |       |
 | 102    | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)                   | :heavy_check_mark: |                    |       |       |
 | 103    | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)     | :heavy_check_mark: |                    |       |       |
 | 104    | [Maximum Depth of Binary Tree](https://leetcode.com/problems/single-number/description/)                                            | :heavy_check_mark: |                    |       |       |
