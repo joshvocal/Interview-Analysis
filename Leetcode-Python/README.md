@@ -15,6 +15,7 @@
 | 230    | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)                           | :heavy_check_mark: |                    |       |       |
 | 237    | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)                             | :heavy_check_mark: |                    |       |       |
 | 242    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                           | :heavy_check_mark: | heavy_check_mark:  |       |       |
+| 268    | [Missing Number](https://leetcode.com/problems/missing-number/description/)                                                         | :heavy_check_mark: |                    |       |       |
 | 283    | [Move Zeros](https://leetcode.com/problems/move-zeroes/description/)                                                                | :heavy_check_mark: |                    |       |       |
 | 287    | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)                                   | :heavy_check_mark: |                    |       |       |
 | 328    | [Odd Even Linked Listl](https://leetcode.com/problems/odd-even-linked-list/description/)                                            | :heavy_check_mark: |                    |       |       |
