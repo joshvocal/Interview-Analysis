@@ -13,6 +13,7 @@
 | 103    | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)     | :heavy_check_mark: |                    |       |       |
 | 104    | [Maximum Depth of Binary Tree](https://leetcode.com/problems/single-number/description/)                                            | :heavy_check_mark: |                    |       |       |
 | 108    | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | :heavy_check_mark: |                    |       |       |
+| 141    | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                                   | :heavy_check_mark: |                    |       |       |
 | 169    | [Majority Element](https://leetcode.com/problems/majority-element/description/)                                                     | :heavy_check_mark: |                    |       |       |
 | 136    | [Single Number](https://leetcode.com/problems/single-number/description/)                                                           | :heavy_check_mark: | :heavy_check_mark: |       |       |
 | 206    | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                                               | :heavy_check_mark: |                    |       |       |
