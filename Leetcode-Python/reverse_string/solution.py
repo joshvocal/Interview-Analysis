@@ -24,4 +24,28 @@ class Solution:
 
         return ''.join(arr)
 
+"""
+Solution 2: Recursive
+Time: O(n)
+Space: O(n)
+"""
+
+class Solution2:
+    def reverseString(self, s):
+        """
+        :type s: List[str]
+        :rtype: void Do not return anything, modify s in-place instead.
+        """
+        helper(s, 0, len(s) - 1)
+
+    def helper(self, s, start, end):
+        if not s or start >= end:
+            return
+
+        temp = s[start]
+        s[start] = s[end]
+        s[end] = temp
+
+        self.helper(s, start + 1, end - 1)
+
 
