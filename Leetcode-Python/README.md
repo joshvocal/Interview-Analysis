@@ -23,6 +23,7 @@
 | 138    | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)                           | :heavy_check_mark: |                    |       |       |
 | 141    | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                                   | :heavy_check_mark: |                    |       |       |
 | 148    | [Sort List](https://leetcode.com/problems/sort-list/description/)                                                                   | :heavy_check_mark: |                    |       |       |
+| 160    | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)                     | :heavy_check_mark: |                    |       |       |
 | 169    | [Majority Element](https://leetcode.com/problems/majority-element/description/)                                                     | :heavy_check_mark: |                    |       |       |
 | 136    | [Single Number](https://leetcode.com/problems/single-number/description/)                                                           | :heavy_check_mark: | :heavy_check_mark: |       |       |
 | 206    | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                                               | :heavy_check_mark: |                    |       |       |
