@@ -21,6 +21,7 @@ class Solution:
             lo += 1
             hi += 1
 
+
 """
 Solution 2: Brute Force
 Time: O(n*k)
