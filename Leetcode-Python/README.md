@@ -18,6 +18,7 @@
 | 118    | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)                                                    | :heavy_check_mark: |                    |       |       |
 | 121    | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)                       | :heavy_check_mark: |                    |       |       |
 | 122    | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                             | :heavy_check_mark: |                    |       |       |
+| 125    | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1)                                                    | :heavy_check_mark: |                    |       |       |
 | 141    | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                                   | :heavy_check_mark: |                    |       |       |
 | 169    | [Majority Element](https://leetcode.com/problems/majority-element/description/)                                                     | :heavy_check_mark: |                    |       |       |
 | 136    | [Single Number](https://leetcode.com/problems/single-number/description/)                                                           | :heavy_check_mark: | :heavy_check_mark: |       |       |
