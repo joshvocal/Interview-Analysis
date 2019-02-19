@@ -28,6 +28,7 @@
 | 169    | [Majority Element](https://leetcode.com/problems/majority-element/description/)                                                     | :heavy_check_mark: |                    |       |       |
 | 189    | [Rotate Array](https://leetcode.com/problems/rotate-array/description/)                                                             | :heavy_check_mark: |                    |       |       |
 | 200    | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)                                                   | :heavy_check_mark: |                    |       |       |
+| 202    | [Happy Number](https://leetcode.com/problems/happy-number/description/)                                                             | :heavy_check_mark: |                    |       |       |
 | 206    | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                                               | :heavy_check_mark: |                    |       |       |
 | 208    | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)                               | :heavy_check_mark: |                    |       |       |
 | 217    | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/hints/)                                                       | :heavy_check_mark: |                    |       |       |
