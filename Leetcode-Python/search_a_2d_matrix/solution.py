@@ -53,7 +53,7 @@ class Solution2:
 
 
 """
-Solution 3: Row Binary Search
+Solution 3: Binary Search
 Time: O(log(n*m))
 Space: O(1)
 """
