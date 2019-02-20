@@ -43,3 +43,36 @@ class Solution2:
                 return True
 
         return False
+
+
+
+"""
+Solution 3: Row Binary Search
+Time: O(n*log(m))
+Space: O(1)
+"""
+
+class Solution3:
+    def searchMatrix(self, matrix, target):
+        if not matrix or len(matrix) == 0 or len(matrix[0]) == 0:
+            return False
+        
+        lo = 0
+        hi = len(matrix[0]) - 1
+        
+        for row in matrix:
+            print(row)
+            if target <= row[hi]:
+                while lo <= hi:
+                    mid = (lo + hi) // 2
+                    
+                    if row[mid] == target:
+                        return True
+                    elif row[mid] > target:
+                        hi = mid - 1
+                    else:    
+                        lo = mid + 1
+                lo = 0       
+                hi = len(row) - 1
+
+        return False
