@@ -47,6 +47,7 @@
 | 328    | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)                                             | :heavy_check_mark: |                    |       |       |
 | 344    | [Reverse String](https://leetcode.com/problems/reverse-string/description/)                                                         | :heavy_check_mark: | :heavy_check_mark: |       |       |
 | 350    | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)                           | :heavy_check_mark: |                    |       |       |
+| 378    | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)       | :heavy_check_mark: |                    |       |       |
 | 387    | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)                 | :heavy_check_mark: |                    |       |       |
 | 412    | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)                                                                   | :heavy_check_mark: | :heavy_check_mark: |       |       |
 | 509    | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)                                                     | :heavy_check_mark: |                    |       |       |
