@@ -43,6 +43,7 @@
 | 268    | [Missing Number](https://leetcode.com/problems/missing-number/description/)                                                         | :heavy_check_mark: |                    |       |       |
 | 283    | [Move Zeros](https://leetcode.com/problems/move-zeroes/description/)                                                                | :heavy_check_mark: |                    |       |       |
 | 287    | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)                                   | :heavy_check_mark: |                    |       |       |
+| 326    | [Power of Three](https://leetcode.com/problems/power-of-three/description/)                                                         | :heavy_check_mark: |                    |       |       |
 | 328    | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)                                             | :heavy_check_mark: |                    |       |       |
 | 334    | [Reverse String](https://leetcode.com/problems/reverse-string/description/)                                                         | :heavy_check_mark: | :heavy_check_mark: |       |       |
 | 350    | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)                           | :heavy_check_mark: |                    |       |       |
