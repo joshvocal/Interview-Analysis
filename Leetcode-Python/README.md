@@ -8,6 +8,7 @@
 | 22     | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)                                             | :heavy_check_mark: |                    |       |       |
 | 46     | [Permutations](https://leetcode.com/problems/permutations/description/)                                                             | :heavy_check_mark: |                    |       |       |
 | 70     | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                                       | :heavy_check_mark: |                    |       |       |
+| 74     | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)                                                 | :heavy_check_mark: |                    |       |       |
 | 78     | [Subsets](https://leetcode.com/problems/subsets/description/)                                                                       | :heavy_check_mark: |                    |       |       |
 | 88     | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)                                                 | :heavy_check_mark: |                    |       |       |
 | 101    | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)                                                         | :heavy_check_mark: |                    |       |       |
@@ -37,6 +38,7 @@
 | 234    | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)                                         | :heavy_check_mark: |                    |       |       |
 | 237    | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)                             | :heavy_check_mark: |                    |       |       |
 | 238    | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                             | :heavy_check_mark: |                    |       |       |
+| 240    | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)                                           | :heavy_check_mark: |                    |       |       |
 | 242    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                           | :heavy_check_mark: | :heavy_check_mark: |       |       |
 | 268    | [Missing Number](https://leetcode.com/problems/missing-number/description/)                                                         | :heavy_check_mark: |                    |       |       |
 | 283    | [Move Zeros](https://leetcode.com/problems/move-zeroes/description/)                                                                | :heavy_check_mark: |                    |       |       |
