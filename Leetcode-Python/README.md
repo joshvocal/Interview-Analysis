@@ -45,7 +45,7 @@
 | 287    | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)                                   | :heavy_check_mark: |                    |       |       |
 | 326    | [Power of Three](https://leetcode.com/problems/power-of-three/description/)                                                         | :heavy_check_mark: |                    |       |       |
 | 328    | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)                                             | :heavy_check_mark: |                    |       |       |
-| 334    | [Reverse String](https://leetcode.com/problems/reverse-string/description/)                                                         | :heavy_check_mark: | :heavy_check_mark: |       |       |
+| 344    | [Reverse String](https://leetcode.com/problems/reverse-string/description/)                                                         | :heavy_check_mark: | :heavy_check_mark: |       |       |
 | 350    | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)                           | :heavy_check_mark: |                    |       |       |
 | 387    | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)                 | :heavy_check_mark: |                    |       |       |
 | 412    | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)                                                                   | :heavy_check_mark: | :heavy_check_mark: |       |       |
