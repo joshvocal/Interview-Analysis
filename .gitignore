@@ -2,8 +2,9 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 .idea/*
-Leetcode-Python/.idea/*
-Leetcode-Python/.idea
+Leetcode/.idea/*
+Leetcode/Java/.idea/*
+Leetcode/.idea
 *.iml
 .DS_Store
 *.pyc
