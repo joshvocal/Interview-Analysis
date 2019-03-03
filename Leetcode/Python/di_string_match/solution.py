@@ -6,7 +6,7 @@ Space: O(1)
 
 
 class Solution:
-    def diStringMatch(self, S: str) -> List[int]:
+    def diStringMatch(self, S):
         
         res = []
         
