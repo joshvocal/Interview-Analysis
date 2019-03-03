@@ -3,6 +3,7 @@
 | Number | Title                                                                                                                               | Solution           | Tests              | Guide | Video |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ | ----- | ----- |
 | 1      | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                   | :heavy_check_mark: |                    |       |       |
+| 7      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                   | :heavy_check_mark: |                    |       |       |
 | 19     | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)                     | :heavy_check_mark: |                    |       |       |
 | 20     | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                                                   | :heavy_check_mark: |                    |       |       |
 | 21     | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/1)                                        | :heavy_check_mark: |                    |       |       |
