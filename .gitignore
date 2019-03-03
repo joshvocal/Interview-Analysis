@@ -5,6 +5,7 @@
 Leetcode/.idea/*
 Leetcode/Java/.idea/*
 Leetcode/.idea
+Leetcode/.DS_Store
 *.iml
 .DS_Store
 *.pyc
