@@ -56,5 +56,6 @@
 | 917    | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)                                                         | :heavy_check_mark: |                    |       |       
 | 922    | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)                                                   | :heavy_check_mark: |                    |       |       |
 | 942    | [DI String Match](https://leetcode.com/problems/di-string-match/)                                                                   | :heavy_check_mark: |                    |       |       |
+| 961    | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)                           | :heavy_check_mark: |                    |       |       |
 
 
