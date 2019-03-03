@@ -11,6 +11,7 @@
 | 23     | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                         | :heavy_check_mark: |                    |       |       |
 | 24     | [Swap Node In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                            | :heavy_check_mark: |                    |       |       |
 | 46     | [Permutations](https://leetcode.com/problems/permutations/description/)                                                             | :heavy_check_mark: |                    |       |       |
+| 48     | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                         | :heavy_check_mark: |                    |       |       |
 | 70     | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                                       | :heavy_check_mark: |                    |       |       |
 | 74     | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)                                                 | :heavy_check_mark: |                    |       |       |
 | 78     | [Subsets](https://leetcode.com/problems/subsets/description/)                                                                       | :heavy_check_mark: |                    |       |       |
