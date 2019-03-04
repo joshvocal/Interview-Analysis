@@ -58,6 +58,7 @@
 | 412    | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)                                                                   | :heavy_check_mark: | :heavy_check_mark: |       |       |
 | 509    | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)                                                     | :heavy_check_mark: |                    |       |       |
 | 671    | [Second Minimum Node in a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/)             | :heavy_check_mark: |                    |       |       |
+| 771    | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                               | :heavy_check_mark: |                    |       |       |
 | 897    | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)                                         | :heavy_check_mark: |                    |       |       |
 | 905    | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)                                                          | :heavy_check_mark: |                    |       |       |
 | 917    | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)                                                         | :heavy_check_mark: |                    |       |       
