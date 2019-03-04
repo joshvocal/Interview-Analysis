@@ -6,7 +6,7 @@
 | 7      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                   | :heavy_check_mark: |                    |       |       |
 | 19     | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)                     | :heavy_check_mark: |                    |       |       |
 | 20     | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                                                   | :heavy_check_mark: |                    |       |       |
-| 21     | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/1)                                        | :heavy_check_mark: |                    |       |       |
+| 21     | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/1)                                        | :heavy_check_mark: |                    | :heavy_check_mark: |       |
 | 22     | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)                                             | :heavy_check_mark: |                    |       |       |
 | 23     | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                         | :heavy_check_mark: |                    |       |       |
 | 24     | [Swap Node In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                            | :heavy_check_mark: |                    |       |       |
