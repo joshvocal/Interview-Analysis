@@ -41,6 +41,7 @@
 | 208    | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)                               | :heavy_check_mark: |                    |                    |       |
 | 215    | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)                       | :heavy_check_mark: |                    |                    |       |
 | 217    | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/hints/)                                                       | :heavy_check_mark: |                    |                    |       |
+| 229    | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                                           | :heavy_check_mark: |                    |                    |       |
 | 230    | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)                           | :heavy_check_mark: |                    |                    |       |
 | 234    | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)                                         | :heavy_check_mark: |                    |                    |       |
 | 237    | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)                             | :heavy_check_mark: |                    |                    |       |
