@@ -4,6 +4,7 @@ Time: O(2*n)
 Space: O(1)
 """
 
+
 class Solution:
     def productExceptSelf(self, nums):
 
@@ -21,3 +22,26 @@ class Solution:
             prod = prod * nums[i]
 
         return prod
+
+
+"""
+Solution 2:
+Time: O(n^2)
+Space: O(n)
+"""
+
+
+class Solution2:
+    def productExceptSelf(self, nums):
+
+        res = [1 for num in nums]
+
+        if not nums or len(nums) == 0:
+            return res
+
+        for i in range(len(nums)):
+            for j in range(len(nums)):
+                if i != j:
+                    res[i] *= nums[j]
+
+        return res
