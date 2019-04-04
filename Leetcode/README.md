@@ -67,6 +67,7 @@
 | 905    | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)                                                          | :heavy_check_mark: |                    |                    |       |
 | 917    | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)                                                         | :heavy_check_mark: |                    |                    |
 | 922    | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)                                                   | :heavy_check_mark: |                    |                    |       |
+| 929    | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)                                                     | :heavy_check_mark: |                    |                    |       |
 | 942    | [DI String Match](https://leetcode.com/problems/di-string-match/)                                                                   | :heavy_check_mark: |                    |                    |       |
 | 957    | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)                                               | :heavy_check_mark: |                    |                    |       |
 | 961    | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)                           | :heavy_check_mark: |                    |                    |       |
