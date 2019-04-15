@@ -1,6 +1,6 @@
 # Solutions
 
-## Arrays
+### Arrays
 
 | Title               | Solved             | Guide | Video |
 | ------------------- | ------------------ | ----- | ----- |
@@ -11,7 +11,8 @@
 | Subarray Sort       |                    |       |       |
 | Largest Range       |                    |       |       |
 
-## Binary Search Trees
+
+### Binary Search Trees
 
 | Title                     | Solved             | Guide | Video |
 | ------------------------- | ------------------ | ----- | ----- |
@@ -21,7 +22,7 @@
 | BST Traversal             | :heavy_check_mark: |       |       |
 
 
-## Binary Trees
+### Binary Trees
 
 | Title                        | Solved             | Guide | Video |
 | ---------------------------- | ------------------ | ----- | ----- |
@@ -29,7 +30,7 @@
 | Max Path Sum In Binary Tree  |                    |       |       |
 | Iterative In-order Traversal |                    |       |       |
 
-## Dynamic Programming
+### Dynamic Programming
 
 | Title                                        | Solved | Guide | Video |
 | -------------------------------------------- | ------ | ----- | ----- |
@@ -48,7 +49,7 @@
 | Longest Increasing Subsequence               |        |       |       |
 
 
-## Famous Algorithms
+### Famous Algorithms
 
 | Title                        | Solved             | Guide | Video |
 | ---------------------------- | ------------------ | ----- | ----- |
@@ -56,7 +57,7 @@
 | Topological Sort             |                    |       |       |
 | Knuth-Morris-Pratt Algorithm |                    |       |       |
 
-## Graphs
+### Graphs
 
 | Title                | Solved             | Guide | Video |
 | -------------------- | ------------------ | ----- | ----- |
@@ -65,14 +66,14 @@
 | River Sizes          | :heavy_check_mark: |       |       |
 | Boggle Board         |                    |       |       |
 
-## Heaps
+### Heaps
 
 | Title                 | Solved | Guide | Video |
 | --------------------- | ------ | ----- | ----- |
 | Min Heap Construction |        |       |       |
 | Continuous Median     |        |       |       |
 
-## Linked Lists
+### Linked Lists
 
 | Title                    | Solved             | Guide | Video |
 | ------------------------ | ------------------ | ----- | ----- |
@@ -81,7 +82,7 @@
 | Find Loop                |                    |       |       |
 | LRU Cache                |                    |       |       |
 
-## Recursion
+### Recursion
 
 | Title                                     | Solved             | Guide | Video |
 | ----------------------------------------- | ------------------ | ----- | ----- |
@@ -90,7 +91,7 @@
 | Powerset                                  | :heavy_check_mark: |       |       |
 | Number Of Possible Binary Tree Topologies |                    |       |       |
 
-## Searching
+### Searching
 
 | Title                      | Solved             | Guide | Video |
 | -------------------------- | ------------------ | ----- | ----- |
@@ -101,7 +102,7 @@
 | Search For Range           |                    |       |       |
 | Quickselect                |                    |       |       |
 
-## Sorting
+### Sorting
 
 | Title          | Solved             | Guide | Video |
 | -------------- | ------------------ | ----- | ----- |
@@ -112,14 +113,14 @@
 | Heap Sort      |                    |       |       |
 | Merge Sort     |                    |       |       |
 
-## Stacks
+### Stacks
 
 | Title                      | Solved             | Guide | Video |
 | -------------------------- | ------------------ | ----- | ----- |
 | Min Max Stack Construction |                    |       |       |
 | Balanced Brackets          | :heavy_check_mark: |       |       |
 
-## Strings
+### Strings
 
 | Title                                 | Solved             | Guide | Video |
 | ------------------------------------- | ------------------ | ----- | ----- |
@@ -130,7 +131,7 @@
 | Underscorify Substring                |                    |       |       |
 | Pattern Matcherjj                     |                    |       |       |
 
-## Tries
+### Tries
 
 | Title                    | Solved             | Guide | Video |
 | ------------------------ | ------------------ | ----- | ----- |
