@@ -25,18 +25,19 @@ Space: O(1)
 '''
 
 def twoNumberSum2(arr, target):
-    arr.sort()
+	arr.sort()
 
-    lo = 0 
-    hi = len(arr) - 1
+	lo = 0
+	hi = len(arr) - 1
 
-    while lo < hi:
-        if arr[lo] + arr[hi] == target:
-            return [arr[lo], arr[hi]]
-        elif arr[lo] + arr[hi] > target:
-            hi -= 1
-        else:
-            lo += 1
-
-    return []
-
+	while lo < hi:
+		left = arr[lo]
+		right = arr[hi]
+		cs = left + right
+		if cs == target:
+			return [left, right]
+		elif cs > target:
+			hi -= 1
+		else:
+			lo += 1
+	return []
