@@ -136,4 +136,4 @@
 | Title                    | Solved             | Guide | Video |
 | ------------------------ | ------------------ | ----- | ----- |
 | Suffix Trie Construction | :heavy_check_mark: |       |       |
-| Multi String Search      |                    |       |       |
+| Multi String Search      | :heavy_check_mark: |       |       |
