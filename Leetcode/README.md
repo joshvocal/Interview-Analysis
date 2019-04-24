@@ -23,6 +23,7 @@
 | 103    | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)     | :heavy_check_mark: |                    |                    |       |
 | 104    | [Maximum Depth of Binary Tree](https://leetcode.com/problems/single-number/description/)                                            | :heavy_check_mark: |                    |                    |       |
 | 108    | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | :heavy_check_mark: |                    |                    |       |
+| 111    | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)                             | :heavy_check_mark: |                    |                    |       |
 | 118    | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)                                                    | :heavy_check_mark: |                    |                    |       |
 | 121    | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)                       | :heavy_check_mark: |                    |                    |       |
 | 122    | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                             | :heavy_check_mark: |                    |                    |       |
