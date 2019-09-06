@@ -64,6 +64,7 @@
 | 482    | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                                                     | :heavy_check_mark: |                    |                    |       |
 | 509    | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)                                                     | :heavy_check_mark: |                    |                    |       |
 | 515    | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)               | :heavy_check_mark: |                    |                    |       |
+| 637    | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)                                 | :heavy_check_mark: |                    |                    |       |
 | 671    | [Second Minimum Node in a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/)             | :heavy_check_mark: |                    |                    |       |
 | 671    | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)                                                 | :heavy_check_mark: |                    |                    |       |
 | 771    | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                               | :heavy_check_mark: |                    |                    |       |
